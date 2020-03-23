@@ -1,7 +1,7 @@
 # Comparative-analysis-of-SVM-kernells 
 Comparative analysis of linear,polynomial, and RBF kernel of Support Vector Machine (SVM)
 
-#DESCRIPTION:
+# DESCRIPTION:
 By using the stock dataset predicting the stock price of 30th day using different kernels of SVM
 
 1.reading the date and open price column from training stock dataset
